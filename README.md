@@ -22,7 +22,7 @@ This repository is designed to serve as a comprehensive resource for learning an
 ## ⚙️ How to Use
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/data-structures-and-algorithms.git
+   git clone https://github.com/praveenkumarsrivas/DSA-Concepts.git
    ```
 ## 📂 File Structure
 ```.
