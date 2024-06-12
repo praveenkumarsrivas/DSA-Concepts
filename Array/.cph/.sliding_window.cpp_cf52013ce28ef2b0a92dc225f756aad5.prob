@@ -1,0 +1,1 @@
+{"name":"Local: sliding_window","url":"/Users/praveensrivas/Documents/DSA_python:cpp/DSA-Concepts/Array/sliding_window.cpp","tests":[{"id":1718189197329,"input":"4 2 100 200 300 400","output":"700"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/praveensrivas/Documents/DSA_python:cpp/DSA-Concepts/Array/sliding_window.cpp","group":"local","local":true}
